@@ -20,7 +20,7 @@ public class HumidityActivity extends AppCompatActivity {
     TextView textHumidity;
 
     public  void init(){
-
+//Testing Git
         editDry = findViewById(R.id.fh_dry);
         editWet = findViewById(R.id.fh_wet);
         textHumidity = findViewById(R.id.fh_humidity);
