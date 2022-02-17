@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Poultry Farm</string>
+    <string name="tab_text_1">نمی (Humidity)</string>
+    <string name="tab_text_2">فین اور وینٹ (Fan and Vent)</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="average_weight_in_grams">ایک چوزے کا اوسط وزن (گرام/ gram) میں</string>
+    <string name="hint_average_weight_in_grams"> وزن گرام میں</string>
+    <string name="total_amount_of_chicken">چوزوں کی کل (Total) تعداد </string>
+    <string name="age_in_weeks">چوزوں کی عمر کس ہفتے (Week) میں ہے</string>
+    <string name="hint_age_in_weeks">1 سے 5 تک</string>
+    <string name="outer_temperature">بیرونی درجہ حرارت (Outer Temperature)</string>
+    <string name="hint_outer_temperature">0 سے 30 تک</string>
+    <string name="length_of_vent">ایک وینٹ کی لمبائی انچ میں</string>
+    <string name="amount_of_vent_to_open">آپ کتنے وینٹ کھولنا چاہتے ہیں؟</string>
+    <string name="dry_thermometer_value">Dry Temperature</string>
+    <string name="wet_thermometer_value">Wet Temperature</string>
+    <string name="humidity">نمی / Humidity</string>
+    <string name="calculate_humidity">نمی / Humidity کا جواب</string>
+    <string name="fan">فین</string>
+    <string name="calculate_fan"> فین/ Fan کا جواب</string>
+    <string name="vent">وینٹ (Vent)</string>
+    <string name="calculate_vent"> وینٹ / Vent کا جواب</string>
+    <string name="title_activity_main2">MainActivity</string>
+
+
+
+    <string name="name2">معظم علی چیمہ</string>
+    <string name="name1">شفاقت علی چیمہ</string>
+    <string name="toolbar_text">آزاد پروٹین فارمز</string>
+
+    <string name="error_age">براہ کرم درست عمر درج کریں۔</string>
+    <string name="error_temperature">براہ کرم درست درجہ حرارت درج کریں۔</string>
+    <string name="error_empty_fields">برائے مہربانی تمام ٹیکسٹ فیلڈز کو پُر کریں۔</string>
+    <string name="error_fan_first">پہلے فین کا حساب لگائیں۔</string>
+    <string name="value_doesnt_exist">معلومات ٹیبل میں موجود نہیں ہے۔</string>
+
+</resources>
